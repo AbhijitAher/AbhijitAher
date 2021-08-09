@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbhijitAher
-- 👀 I’m interested in Programming Basics
-- 🌱 I’m currently learning to code 
+- 🌱 Learning Full Stack Web Development at Masai School, Bangalore. 
 - 💞️ I’m looking to collaborate on Learnings and Discussions
 - 📫 Reach me at seabhi.aher@gmail.com
 
