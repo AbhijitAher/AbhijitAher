@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming Basics
 - 🌱 I’m currently learning to code 
 - 💞️ I’m looking to collaborate on Learnings and Discussions
-- 📫 How to reach me at seabhi.aher@gmail.com
+- 📫 Reach me at seabhi.aher@gmail.com
 
 <!---
 AbhijitAher/AbhijitAher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
