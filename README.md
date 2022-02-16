@@ -70,8 +70,6 @@
 ##### Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)&nbsp;&nbsp;
 
- </p>
-
 <!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile# -->
 
 <!-- Badges -->
@@ -84,18 +82,20 @@
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AbhijitAher) 
 <p align="center">
 <a href="https://github.com/AbhijitAher">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitAher&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+ 
+
+ 
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitAher&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhijitAher&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitAher&theme=vue-dark">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitAher&theme=vue-dark" />
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=AbhijitAher" /> -->
 </a>
 </p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AbhijitAher)
 
 <!---
 AbhijitAher/AbhijitAher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
