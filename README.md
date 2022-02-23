@@ -90,8 +90,8 @@
 
  
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitAher&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhijitAher&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitAher&theme=vue-dark" />
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhijitAher&layout=compact&exclude_lang=java+r&theme=vue-dark" /> -->
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitAher&theme=vue-dark" /> -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=AbhijitAher" /> -->
 </a>
 </p>
