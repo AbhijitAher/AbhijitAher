@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Abhijit
-- Learning Full Stack Web Development at Masai School, Bangalore. 
-- I’m looking to collaborate on Learnings and Discussions
+- Full Stack Web Development with an experience of 6 months of rigorous skill development training at Masai School. 
 
 - Portfolio: [abhijit-aher.vercel.app](https://abhijit-aher.vercel.app/)
 - Email: [seabhi.aher@gmail.com](mailto:seabhi.aher@gmail.com)
@@ -8,7 +7,6 @@
 - Medium: [seabhi.aher](https://medium.com/@seabhi.aher)
 
 ### 🛠 &nbsp;Tech Stack
-
 
  #### Frontend
 
@@ -30,11 +28,10 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;&nbsp;
 
 
-#### Tools
+#### Tools I use
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
@@ -49,13 +46,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)&nbsp;&nbsp;
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;&nbsp;
-<!-- ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;&nbsp; -->
+
 
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)&nbsp;&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;&nbsp;
 ![Todolist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)&nbsp;&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;&nbsp;
-<!-- ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)&nbsp;&nbsp; -->
 
 ##### Communication
  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;&nbsp;
@@ -70,29 +65,12 @@
 ##### Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)&nbsp;&nbsp;
 
-<!-- Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile# -->
-
-<!-- Badges -->
-<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp; -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;&nbsp; -->
-<!-- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;&nbsp; -->
-<!-- ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)&nbsp; -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
-
 ### ⚙️ &nbsp;GitHub Analytics
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AbhijitAher) 
 
 <p align="center">
 <a href="https://github.com/AbhijitAher">
- 
-
- 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitAher&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhijitAher&layout=compact&exclude_lang=java+r&theme=vue-dark" /> -->
-<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitAher&theme=vue-dark" /> -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=AbhijitAher" /> -->
 </a>
 </p>
 
@@ -102,12 +80,3 @@
 AbhijitAher/AbhijitAher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/AbhijitAher)  -->
-
-<!-- ![Abhi's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitAher&hide=["issues"]&show_icons=true) -->
-
-
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
-
