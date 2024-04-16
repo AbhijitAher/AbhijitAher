@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Abhijit
-- Full Stack Web Development with an experience of 6 months of rigorous skill development training at Masai School. 
+- Full Stack Web Developer. 
 
 - Portfolio: [abhijit-aher.vercel.app](https://abhijit-aher.vercel.app/)
 - Email: [seabhi.aher@gmail.com](mailto:seabhi.aher@gmail.com)
