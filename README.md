@@ -10,23 +10,32 @@
 
  #### Frontend
 
+![NextJS](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+<!---
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
+--->
 
 #### UI Libraries 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-3A33D1?style=for-the-badge&logo=ant-design&logoColor=white)&nbsp;&nbsp;
-![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;
-![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;&nbsp;
 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;
+![Ant Design](https://img.shields.io/badge/Ant%20Design-3A33D1?style=for-the-badge&logo=ant-design&logoColor=white)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![ChakraUI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;&nbsp;
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;&nbsp;
+<!---
+![MotifUI](https://img.shields.io/badge/Motif-319795?style=for-the-badge&logo=motifJS&logoColor=white)&nbsp;&nbsp;
+--->
 #### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django)&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;&nbsp;
 
